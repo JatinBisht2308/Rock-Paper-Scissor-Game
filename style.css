@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.h2-first{
+    color: rgb(246, 250, 25);
+}
+.h2-second{
+    color: lightgreen;
+}
+.h2-third{
+    color: rgb(9, 206, 255);
+    margin-right: 30px;
+}
+.results{
+    color: rgb(235, 68, 2);
+}
+.choice{
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+}
+h2{
+    margin-left: 30px;
+}
+button{
+    margin-right: 40px;
+    background-color: rgb(211, 39, 211);
+    border-radius: 5px;
+    border-color: rgb(221, 121, 221);
+    color: rgb(243, 252, 252);
+   
+}
+button:hover{
+    cursor:pointer;
+    box-shadow: 2px 2px rgb(54, 1, 54);
+}
